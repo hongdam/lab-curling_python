@@ -1,5 +1,9 @@
 .DS_Store
 Thumbs.db
-.idea
+.idea/
 __pycache__/
 *.pyc
+dist/
+build/
+__pycache__/
+*.spec
